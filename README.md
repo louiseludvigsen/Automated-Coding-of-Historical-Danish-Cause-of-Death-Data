@@ -1,0 +1,1 @@
+# Automated-Coding-of-Historical-Danish-Cause-of-Death-Data
